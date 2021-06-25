@@ -16,7 +16,7 @@ function HomePage() {
           Hi, I'm <span>Abdullah al Sakib</span>
         </h1>
         <p>
-          A Full-stack web-developer who have passion for Coding. Professional
+          A Full-stack web-developer who has a passion for Coding. Professional
           on making web application. Currently working as freelancer at online
           freelancing platforms.
         </p>
